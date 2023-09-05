@@ -1,0 +1,110 @@
+<resources>
+    <string name="app_name">CodeSK Library</string>
+
+    <string name="activity_book_insert_txtHeader">New Book</string>
+    <string name="activity_book_insert_btnGetBookInfo">Get Book Info</string>
+    <string name="activity_book_insert_lblBookType">Type</string>
+    <string name="activity_book_insert_lblBookLanguage">Language</string>
+    <string name="activity_book_insert_lblBookEdition">Edition</string>
+    <string name="activity_book_insert_lblBookPublishYear">Publish Year</string>
+    <string name="activity_book_insert_lblBookPublishMonth">Month</string>
+    <string name="activity_book_insert_lblBookPage">Page Count</string>
+    <string name="activity_book_insert_lblBookName">Book Name</string>
+    <string name="activity_book_insert_lblBookAuthor">Author</string>
+    <string name="activity_book_insert_lblBookPublisher">Publisher</string>
+    <string name="activity_book_insert_lblBookInLibrary">In Library</string>
+    <string name="activity_book_insert_lblBookIsRead">Is Read</string>
+    <string name="activity_book_insert_lblBookSummary">Summary</string>
+    <string name="activity_book_insert_lblBookExplanation">Explanation</string>
+    <string name="activity_book_insert_txtBookISBN">ISBN</string>
+
+    <string name="activity_book_update_txtHeader">Book Update</string>
+    <string name="activity_book_update_btnGetBookInfo">Get Book Info</string>
+    <string name="activity_book_update_lblBookType">Type</string>
+    <string name="activity_book_update_lblBookLanguage">Language</string>
+    <string name="activity_book_update_lblBookEdition">Edition</string>
+    <string name="activity_book_update_lblBookPublishYear">Publish Year</string>
+    <string name="activity_book_update_lblBookPublishMonth">Month</string>
+    <string name="activity_book_update_lblBookPage">Page Count</string>
+    <string name="activity_book_update_lblBookName">Book Name</string>
+    <string name="activity_book_update_lblBookAuthor">Author</string>
+    <string name="activity_book_update_lblBookPublisher">Publisher</string>
+    <string name="activity_book_update_lblBookInLibrary">In Library</string>
+    <string name="activity_book_update_lblBookIsRead">Is Read</string>
+    <string name="activity_book_update_lblBookSummary">Summary</string>
+    <string name="activity_book_update_lblBookExplanation">Explanation</string>
+    <string name="activity_book_update_txtBookISBN">ISBN</string>
+
+    <string name="activity_book_language_settings_lblMainHeader">Book Language Settings</string>
+    <string name="activity_book_language_settings_lblBookLanguageID">Language ID</string>
+    <string name="activity_book_language_settings_lblBookLanguage">Language</string>
+
+    <string name="activity_book_type_settings_lblMainHeader">Book Type Settings</string>
+    <string name="activity_book_type_settings_lblBookTypeID">Type ID</string>
+    <string name="activity_book_type_settings_lblBookType">Type</string>
+
+    <string name="activity_main_lblMainHeader">My Book List</string>
+    <string name="activity_main_txtSearch">Book/Author/Publisher/Type/Language</string>
+    <string name="activity_main_txtMessage">Message</string>
+
+    <string name="activity_settings_lblMainHeader">Database Settings</string>
+    <string name="activity_settings_btnResetDatabase">Reset Database</string>
+    <string name="activity_settings_btnDatabaseExport">Export Book List</string>
+    <string name="activity_settings_btnDatabaseImport">Import Book List</string>
+
+    <string name="book_list_item_textBookISBN">ISBN</string>
+    <string name="book_list_item_textBookLanguage">Language</string>
+    <string name="book_list_item_textBookType">Type</string>
+    <string name="book_list_item_textBookRead">Is Read</string>
+    <string name="book_list_item_textBookInLibrary">In Library</string>
+
+    <string name="book_insert_activity_class_btnGetBookInfoClick">Type ISBN please</string>
+    <string name="book_insert_activity_class_btnInsertClick">It is inserted successfully</string>
+    <string name="book_insert_activity_class_btnInsertError">Error is occurred\nTry again later please</string>
+
+    <string name="book_insert_update_class_btnUpdate">It is updated successfully</string>
+    <string name="book_insert_update_class_btnUpdateError">Error is occurred\nTry again later please</string>
+    <string name="book_insert_update_class_btnGetBookInfoClick">Type ISBN please</string>
+
+    <string name="book_language_settings_class_btnInsert">It is inserted successfully</string>
+    <string name="book_language_settings_class_btnInsertError">Error is occurred\nTry again later please</string>
+    <string name="book_language_settings_class_btnInsertError2">Language can not be empty</string>
+    <string name="book_language_settings_class_btnUpdate">It is updated successfully</string>
+    <string name="book_language_settings_class_btnUpdateError">Error is occurred\nTry again later please</string>
+    <string name="book_language_settings_class_btnUpdate2">Language can not be empty</string>
+    <string name="book_language_settings_class_btnDelete">It is removed successfully</string>
+    <string name="book_language_settings_class_btnDeleteError">Error is occurred\nTry again later please</string>
+    <string name="book_language_settings_class_btnDeleteAlert">Are you sure remove it</string>
+    <string name="book_language_settings_class_btnDeleteAlertYes">Yes</string>
+    <string name="book_language_settings_class_btnDeleteAlertNo">No</string>
+
+    <string name="book_type_settings_class_btnInsert">It is inserted successfully</string>
+    <string name="book_type_settings_class_btnInsertError">Error is occurred\nTry again later please</string>
+    <string name="book_type_settings_class_btnInsertError2">Type can not be empty</string>
+    <string name="book_type_settings_class_btnUpdate">It is updated successfully</string>
+    <string name="book_type_settings_class_btnUpdateError">Error is occurred\ntry again later please</string>
+    <string name="book_type_settings_class_btnUpdateError2">Type can not be empty</string>
+    <string name="book_type_settings_class_btnDelete">It is removed successfully</string>
+    <string name="book_type_settings_class_btnDeleteError">Type can not be empty</string>
+    <string name="book_type_settings_class_btnDeleteAlert">Are you sure remove it</string>
+    <string name="book_type_settings_class_btnDeleteAlertYes">Yes</string>
+    <string name="book_type_settings_class_btnDeleteAlertNo">No</string>
+
+
+    <string name="database_settings_activity_class_btnResetDatabase">Database is reset</string>
+    <string name="database_settings_activity_class_btnExportDatabase">Your book list is exported</string>
+    <string name="database_settings_activity_class_btnDatabaseExportError">Error is occurred\nTry again later please</string>
+    <string name="database_settings_activity_class_btnDatabaseImport">Your book list is imported</string>
+    <string name="database_settings_activity_class_btnDatabaseImportError">Error is occurred\nTry again later please</string>
+
+    <string name="book_menu_AllBooks">All My Books</string>
+    <string name="book_menu_BooksNotInLibrary">Books not Mine</string>
+    <string name="book_menu_BooksWillBeRead">Books I will Read</string>
+    <string name="settings_menu_databaseSettings">Database Settings</string>
+
+    <string name="settings_menu_bookTypeSettings">Book Type Settings</string>
+    <string name="settings_menu_bookLanguageSettings">Book Language Settings</string>
+    <string name="get_book_info_ErrorMessage">Book is not found</string>
+
+
+</resources>

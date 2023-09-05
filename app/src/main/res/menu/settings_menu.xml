@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/bookLanguageSettings"
+        android:title="@string/settings_menu_bookLanguageSettings"
+        tools:ignore="HardcodedText"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/bookTypeSettings"
+        android:title="@string/settings_menu_bookTypeSettings"
+        tools:ignore="HardcodedText"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/databaseSettings"
+        android:title="@string/settings_menu_databaseSettings"
+        tools:ignore="HardcodedText"
+        app:showAsAction="never"/>
+
+</menu>
